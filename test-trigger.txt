@@ -1,0 +1,1 @@
+This is a test to check if CI/CD Pipeline using Pipeline Approach works or not!
